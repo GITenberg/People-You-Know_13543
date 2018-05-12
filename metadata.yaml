@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3917
     wikipedia: http://en.wikipedia.org/wiki/George_Ade
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13543#People-You-Know
 gutenberg_issued: '2004-09-27'
 gutenberg_type: Text
 identifiers:
